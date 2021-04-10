@@ -2,4 +2,7 @@ Wow I'm liking this Koka language its like Ioke, Haskell, and Idris all merged t
 
 At first seen Koka handlers seem a lot like programming with Continuations (GOTO) or Co-routines.  However, after reading
 more it seems that the effect handlers represent all Monads except Continuations, and since they don't include Continuations they can
-do not need Monad Transformers(which is the bane of functional programming).  This is looking really really nice.  
+do not need Monad Transformers(which is the bane of functional programming).  This is looking really really nice.  Wow looking at all of this, I get the idea that there is much about programming that I do not know.  I think koka is a good idea for denotational programming which is what Haskell was trying to be, since a lot of people think of "pure functional programming" as being limited.  
+
+FBIP: Functional but In-Place sounds like a pretty nice new programming paradigm.  The zipper visitor for recursive types sounds pretty hard and way over my head, but awesome.  I wonder if you can code in the derivative function in to automatically do it for you...
+Koka seems to have a pretty complex grammar : (, I guess homoiconic programming isn't going to be used but its syntax is similar to Ioke which is homoiconic.  Semicolon insertion seems almost like the bad JavaScript idea, but if its what is used in Haskell & Scala then its pretty good.  Anyway, koka language seems pretty amazing but I need to focus more on practical programming not beautiful languages haha.
