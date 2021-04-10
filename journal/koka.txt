@@ -1,0 +1,2 @@
+Wow I'm liking this Koka language its like Ioke, Haskell, and Idris all merged together.  I was always thinking - why does Haskell mark the difference between pure and non-pure code yet
+it doesn't care about total vs non-total functions, and the IO Monad pretty much merges all kinds of "effects" into one.  Like pure code uses ($) while impure code uses (=<<),(<$>...<*>).
