@@ -1,0 +1,5 @@
+For Lisps you need to dim the parenthesis so your going by indentation, its similar to python in that way.  
+
+Code is data, and data is code requires a collection of insight to understand it fully, but you can probably there by looking at eval written in Lisp, imagine yourself editing the eval function to change the semantics of Lisp, learning about quasiquotes and macros (which are compilers/transpilers), imagining SQL, HTML, C in s-expressions and what the eval functions FOR THOSE would look like.  Next imagine creating your own version of defun, cond, let, set, progn/do but would a slight twist your own version of defun would statically check things at compile time, or add logging.  Next thing about functions operating in data.  Your data is also in S-expressions, but unlike the turing complete code in Lisp eval, it has your data has a fixed shape.  Any functions that operate on your data are really other forms of eval.  So there is a graduation between data and code and a function and an eval function depending on how many cases you support.
+
+
