@@ -1,0 +1,27 @@
+Top 25 beliefs in computing
+1.) Files are a good way of organizing and persistence
+2.) Our keyboard/mouse is a good way of input [vs eye trackers + stenotype + brain reader]
+3.) Programming should will always require detail oriented people who can imagine states
+4.) A computer is too dumb to program itself
+5.) Low-level code is more efficient than high-level code
+6.) Programming is about implementing things
+7.) Compilers are difficult to code
+8.) Computers should be about one single person to use
+9.) Lisp is about parenthesis
+0.) Text is the best way to view code
+1.) High-level code can't be directly implemented by the hardware, and the hardware is fixed
+2.) Users should be isolated from the operations of the computer
+3.) Functions are blackboxes and that is a good thing
+4.) The technologies that won were the best
+5.) The language we use write our program is the same language we use to read the program we just wrote
+6.) We should write programs directly in the semantics of a language, you can't decouple a program from the semantics of the language it is written in
+7.) Analog computers are less efficient than digital
+8.) Autocompletion is limited to OOP objects
+9.) Certain things can't be encoded in the type system
+0.) Distributed is harder than local
+1.) Web should anonymous and non-realtime
+2.) GUI is easier for newbies, command line is better for experts
+3.) Metaprogramming is harder than programming
+4.) Static typing is constraining, dynamic typing can't be checked, static can't be dynamic, dynamic can't have static checking
+5.) Annotations and types can't be generated from a running program and tests, tests can't be generated from a running program and types
+6.) 
